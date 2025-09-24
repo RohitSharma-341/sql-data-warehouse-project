@@ -8,9 +8,9 @@ this project demostrates a compreshensive data warehousing and analytics solutio
 
 ### objective 
 develop sql-based analytics to deliver detailed insights into :
-## customer behavior
-## product performance
-## sales trends
+**customer behavior**
+**product performance**
+**sales trends**
 
 ## License
 MIT license .you are free to use , modify and shre this project wirh proper attribution .
